@@ -40,7 +40,7 @@
 : **[Ninjabet.it](https://www.ninjabet.it/), Remote (EU/Italy)**
 : **Mar 2024 - Present**
 
-- Architect, design, develop, deploy, and maintain a scalable sports betting platform using a modern tech stack.
+- Architect, design, develop, deploy, and maintain a scalable sports betting platform using a modern tech stack that supports approximately 500k users.
 - Optimize front-end architectures to develop scalable and maintainable codebases and craft seamless user experiences using React.js, Astro.build, Zustand, TailwindCSS, etc.
 - Integrate APIs by connecting front-end components with back-end services using RESTful and GraphQL APIs and Python (API/Rest/Django).
 - Develop back-end services in Django on top of MySQL databases.
