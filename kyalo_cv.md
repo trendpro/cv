@@ -40,12 +40,12 @@
 : **[Ninjabet.it](https://www.ninjabet.it/), Remote (EU/Italy)**
 : **Mar 2024 - Present**
 
-- Architect, design, develop, deploy, and maintain a scalable sports betting platform using a modern tech stack that supports approximately 500k users.
-- Optimize front-end architectures to develop scalable and maintainable codebases and craft seamless user experiences using React.js, Astro.build, Zustand, TailwindCSS, etc.
-- Integrate APIs by connecting front-end components with back-end services using RESTful and GraphQL APIs and Python (API/Rest/Django).
-- Develop back-end services in Django on top of MySQL databases.
+- Architect, design, develop, deploy, and maintain a scalable sports betting tips platform using a modern tech stack that supports approximately 500k users.
+- Craft seamless user experiences using React.js, Astro.build, Zustand, TailwindCSS, etc.
+- Integrate APIs by connecting front-end components with back-end services using RESTful and GraphQL APIs.
+- Develop back-end python services in Django on top of MySQL databases.
 - Conduct code reviews and mentor junior developers to maintain high-quality code standards.
-- Deploy and manage applications on the AWS cloud platform, ensuring scalability, performance, and security.
+- Deploy via docker and manage applications on the AWS cloud platform, ensuring scalability, performance, and security.
 - Implement testing strategies to deliver high-quality, bug-free code.
 
 **Product Engineer**
@@ -113,7 +113,7 @@
 
 **Frameworks and Tools:** React.js, React Native, Expo, Node.js, Django, GraphQL, RESTful APIs, Firebase, Astro.build, TailwindCSS, Zustand
 
-**Cloud Platforms:** AWS (Lambda, LightSail, Cognito, S3, Route53, RDS, EC2), Google Cloud (Functions, Pub/Sub), Firebase
+**Cloud Platforms:** AWS (Lambda, LightSail, Cognito, S3, Route53, RDS, EC2, ECS), Google Cloud (Functions, Pub/Sub), Firebase
 
 **Testing and Version Control:** Jest, React Testing Library, Git, Pytest(Intermediate)
 
